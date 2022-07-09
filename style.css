@@ -1,6 +1,10 @@
 h1{
     text-align: center;
 }
+section{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
 .sec-h1{
     color: aliceblue;
     font-size: 40pt;
@@ -215,4 +219,9 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-size: 26pt;
 color: coral;
 
+}
+.video{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }
