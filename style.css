@@ -1,6 +1,12 @@
 h1{
     text-align: center;
 }
+.nav-ul{
+    /* display:none; */
+    /* position: absolute; */
+    background-color: bisque;
+}
+
 section{
     margin-top: 10px;
     margin-bottom: 15px;
